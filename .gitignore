@@ -1,0 +1,15 @@
+.env
+.env.local
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+node_modules/
+.next/
+dist/
+.DS_Store
+*.log
+.python-version
+bin/portaldot-testnet-macos/
+bin/*.tar.gz
+bin/substrate-node.tar.gz
