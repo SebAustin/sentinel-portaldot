@@ -62,10 +62,8 @@ Toggle: **Yes**
 After you push the repo:
 
 ```
-https://github.com/YOUR_USERNAME/sentinel-portaldot
+https://github.com/SebAustin/sentinel-portaldot
 ```
-
-Replace `YOUR_USERNAME` with your GitHub handle. Repo must be public with commits dated in the hackathon window.
 
 **Push checklist:**
 
